@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Advanced Projects**
 
-- 🌱 I’m currently learning **Advanced Android Concepts**
+- 🌱 I’m currently learning **SpringBoot and Cloud Computing**
 
 - 💬 Ask me about **Android,Java,Kotlin,C,C++,Data Structures**
 
