@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Advanced Projects**
 
-- 🌱 I’m currently learning ** JAVA Enterprise Edition (Java EE) and Cloud Computing (AWS)**
+- 🌱 I’m currently learning **JAVA Enterprise Edition (Java EE) and Cloud Computing (AWS)**
 
 - 💬 Ask me about **Android,Java,Kotlin,C,C++,Data Structures**
 
